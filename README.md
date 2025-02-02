@@ -8,3 +8,4 @@
 * Auto mode may be bad (keycode a)  
 * Not support volume up / down, default volume 100 is too loud, change to 10 (#define DEFAULT_VOLUME 100)  
 * Toolchain same as MIYOO A30, some so files exist for a30 but rg28xx not, be careful  
+* (TODO) Need merge github.com/weimingtom/onscripter-jh-rg35xxsp volume up / down functions   
